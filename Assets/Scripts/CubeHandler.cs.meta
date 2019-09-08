@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db9641a9c78f4894d8e18df7ebf381b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - material1: {instanceID: 0}
+  - material2: {instanceID: 0}
+  - material3: {instanceID: 0}
+  - WorldGameObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
